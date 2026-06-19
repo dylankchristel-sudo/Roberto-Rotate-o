@@ -1,0 +1,8 @@
+Arduino Power Port ------- 9V battery
+Arduino USB port ------- laptop //needs this to get enough power at the moment
+
+Arduino 5V pin-----motor controller(1)-----motor controller(2)--------ground
+Digital Pin 2 ------motor controller(1)========motor(1)
+Digital Pin 4 -------motor controller(2)========motor(2)
+
+Digital Pin 8 ------switch button-----ground //doesn't work yet because I didn't code it in
